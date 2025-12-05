@@ -1,0 +1,2 @@
+- **Redundant** means having a **backup or duplicate system** that can take over if the main one fails.
+- It’s not “waste” — it’s **intentional duplication for reliability**.

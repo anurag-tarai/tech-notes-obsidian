@@ -1,0 +1,1 @@
+![what_you_will_learn](../../../../assets/what_you_will_learn.png)

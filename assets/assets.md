@@ -1,0 +1,1 @@
+![](why_to_use_DTO.png)

@@ -1,0 +1,1 @@
+![spring_boot_arch](../../../../assets/spring_boot_arch.png)

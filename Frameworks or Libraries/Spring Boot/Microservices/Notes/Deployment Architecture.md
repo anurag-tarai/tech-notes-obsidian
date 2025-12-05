@@ -1,0 +1,1 @@
+![deployment_arch_microservie](../../../../assets/deployment_arch_microservie.png)

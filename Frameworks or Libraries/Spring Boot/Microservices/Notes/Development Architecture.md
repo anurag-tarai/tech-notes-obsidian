@@ -1,0 +1,1 @@
+![microservice_dev_arch](../../../../assets/microservice_dev_arch.png)

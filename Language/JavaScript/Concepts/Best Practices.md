@@ -1,0 +1,4 @@
+- Prefer `map`, `filter`, `reduce` over loops.
+- Use `includes()` instead of `indexOf()` for readability.
+- Avoid holes in arrays: `[1,,3]`.
+- Use `push()` instead of `arr[arr.length]`.

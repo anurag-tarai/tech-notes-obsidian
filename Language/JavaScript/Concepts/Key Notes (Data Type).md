@@ -1,0 +1,9 @@
+- JS is **dynamically typed** → type decided at runtime.  
+- `typeof null === "object"; ` // historical bug
+- == does [type coercion](What%20is%20Type%20Coercion?.md), === does not
+- `null === null`  // true
+- `null == undefined` // true (NOT recommended)
+- `typeof function() {}` → "function" (special case).
+- `Symbol` is always **unique**, cannot be recreated.
+- `typeof NaN === "number"` → also important quirk.
+- `NaN === NaN` → false
