@@ -1,6 +1,5 @@
 
 [Callbacks](Callback%20Functions.md) are functions passed into other functions to run later when an [async](Asynchronous%20programming.md) task finishes, for example:
-
 - “After you fetch data, run this callback.”
 - “Inside that callback, after saving to DB, run another callback,” and so on.
 ## Callback hell happens when:

@@ -6,7 +6,7 @@ It’s a way to say:
 ---
 ### Why callbacks exist?
 
-JavaScript is **asynchronous** (non-blocking), especially for things like:
+For **asynchronous** (non-blocking) js code, especially for things like:
 - API calls
 - Timers
 - Reading files

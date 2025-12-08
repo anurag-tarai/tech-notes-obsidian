@@ -1,5 +1,7 @@
-The **Call Stack** is a component of the JavaScript engine that follows a **LIFO (Last In, First Out)** structure.  
-It stores and manages **execution contexts**, allowing JavaScript to track which function is currently running and where to return after each function finishes.  
+>The **Call Stack** is a component of the JavaScript engine that stores and manages **execution contexts**, allowing JavaScript to track which function is currently running and where to return after each function finishes.  
+
+- It follows a **LIFO (Last In, First Out)** structure.
+
 Since JavaScript is **single-threaded**, the Call Stack ensures that only one piece of code executes at a time.
 
 Whenever a function starts, its **execution context is pushed** onto the stack, and when it completes, the context is **popped off**.

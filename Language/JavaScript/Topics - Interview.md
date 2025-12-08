@@ -191,7 +191,7 @@
 - What is `this`?
 - What are higher-order functions?
 - map vs forEach
-- Deep copy vs shallow copy
+- `Deep copy vs shallow copy`
 - What is a promise?
 - async vs defer
 - Event delegation example
