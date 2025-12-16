@@ -1,14 +1,17 @@
-## 1. Core Fundamentals
-1. [SQL vs NoSQL](Concepts/SQL%20vs%20NoSQL.md)
-2. [What is MongoDB ?](Concepts/What%20is%20MongoDB.md)
-3. [BSON vs JSON](Concepts/BSON%20vs%20JSON.md)
-4. [Document, Collection, Database](Concepts/Document,%20Collection,%20Database.md)
-5. [Mongo Shell vs MongoDB Compass](Concepts/Mongo%20Shell%20vs%20MongoDB%20Compass.md)
-6. [ObjectId](Concepts/ObjectId.md)
-7. [Bits, Bytes & Data Units](Concepts/Bits,%20Bytes%20&%20Data%20Units.md) & [Character Encoding (ASCII & Unicode)](Concepts/Character%20Encoding%20(ASCII%20&%20Unicode).md)
-8. [Mongosh Commands](Concepts/Mongosh%20Commands.md)
-9. [CRUD Basics](Concepts/CRUD%20Basics.md)
-10. [findOneAndUpdate(), findOneAndReplace(), findOneAndDelete()](Concepts/findOneAndUpdate(),%20findOneAndReplace(),%20findOneAndDelete().md)
+👩🏻‍💻 ✅ --> 🎓
+[How to Study](../../How%20to%20Study.md)
+## 1. Core Fundamentals 👩🏻‍💻
+1. [SQL vs NoSQL](Concepts/SQL%20vs%20NoSQL.md) ✅
+2. [What is MongoDB ?](Concepts/What%20is%20MongoDB.md) ✅
+3. [BSON vs JSON](Concepts/BSON%20vs%20JSON.md) ✅
+4. [Document, Collection, Database](Concepts/Document,%20Collection,%20Database.md) ✅
+5. [How interact with No-SQL database](Concepts/How%20interact%20with%20No-SQL%20database.md) ✅
+6. [Mongo Shell vs MongoDB Compass](Concepts/Mongo%20Shell%20vs%20MongoDB%20Compass.md) ✅
+7. [ObjectId](Concepts/ObjectId.md) ✅
+8. [Bits, Bytes & Data Units](Concepts/Bits,%20Bytes%20&%20Data%20Units.md) & [Character Encoding (ASCII & Unicode)](Concepts/Character%20Encoding%20(ASCII%20&%20Unicode).md) ✅
+9. [Mongosh Commands](Concepts/Mongosh%20Commands.md) 
+10. [CRUD Basics](Concepts/CRUD%20Basics.md) 
+11. [findOneAndUpdate(), findOneAndReplace(), findOneAndDelete()](Concepts/findOneAndUpdate(),%20findOneAndReplace(),%20findOneAndDelete().md) 
 ---
 ## 2. Schema Design & Data Modeling
 1. [What is Schema-less (but structured)](Concepts/What%20is%20Schema-less%20(but%20structured).md)

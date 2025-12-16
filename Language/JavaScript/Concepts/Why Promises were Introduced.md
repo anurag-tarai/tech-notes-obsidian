@@ -1,8 +1,6 @@
 ### Promises solve all the callback hell problems.
 - ### Avoid callback hell
 
-- ### Make async code look more like synchronous code
-
 - ### Easy chaining (`.then()`)
 
 - ### Centralized error handling (`.catch()`)

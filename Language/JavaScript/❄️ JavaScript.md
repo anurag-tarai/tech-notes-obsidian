@@ -1,22 +1,20 @@
-Learning - 👩🏻‍💻
-Learning Complete - ✅
-Revised - 🎓
+👩🏻‍💻 ✅ --> 🎓
 [Mongosh Commands](../../Databases/MongoDB/Concepts/Mongosh%20Commands.md)
-## 1. Core Fundamentals ✅
-1. [What is JavaScript ?](Concepts/What%20is%20JavaScript.md)
-2. [HTML, CSS, JavaScript](Concepts/HTML,%20CSS,%20JavaScript.md)
-3. [Js Where To](Concepts/Js%20Where%20To.md)
-4. [JS Engine (V8), Runtime (Browser, Node.js)](Concepts/JS%20Engine%20(V8),%20Runtime%20(Browser,%20Node.js).md)
-5. [JavaScript Output Methods](Concepts/JavaScript%20Output%20Methods.md)
-6. [Execution Context](Concepts/Execution%20Context.md) 🎓
-7. [Call Stack](Concepts/Call%20Stack.md) 🎓
-8. [Sync vs Async code](Concepts/Sync%20vs%20Async%20code.md) 🎓
-9. [Web APIs](Concepts/Web%20APIs.md) 🎓
-10. [Microtask Queue](Concepts/Microtask%20Queue.md)  🎓
-11. [Macrotask Queue (Callback Queue)](Concepts/Macrotask%20Queue%20(Callback%20Queue).md) 🎓
-12. [Event Loop](Concepts/Event%20Loop.md) 🎓
+## 1. Core Fundamentals 👩🏻‍💻
+1. [What is JavaScript ?](Concepts/What%20is%20JavaScript.md) 
+2. [HTML, CSS, JavaScript](Concepts/HTML,%20CSS,%20JavaScript.md) 
+3. [Js Where To](Concepts/Js%20Where%20To.md) 
+4. [JS Engine (V8), Runtime (Browser, Node.js)](Concepts/JS%20Engine%20(V8),%20Runtime%20(Browser,%20Node.js).md) 
+5. [JavaScript Output Methods](Concepts/JavaScript%20Output%20Methods.md) 
+6. [Execution Context](Concepts/Execution%20Context.md) ✅
+7. [Call Stack](Concepts/Call%20Stack.md) ✅
+8. [Sync vs Async code](Concepts/Sync%20vs%20Async%20code.md) ✅
+9. [Web APIs](Concepts/Web%20APIs.md) ✅
+10. [Microtask Queue](Concepts/Microtask%20Queue.md)  ✅
+11. [Macrotask Queue (Callback Queue)](Concepts/Macrotask%20Queue%20(Callback%20Queue).md) ✅
+12. [Event Loop](Concepts/Event%20Loop.md) ✅
 ---
-## 2. Data Types✅
+## 2. Data Types👩🏻‍💻
 1. [Data Types In JS](Concepts/Data%20Types%20In%20JS.md)
 2. [Primitive Types](Concepts/Primitive%20Types.md)
 3. [Reference Types](Concepts/Reference%20Types.md)
@@ -26,7 +24,7 @@ Revised - 🎓
 7. [JavaScript Type Conversion](Concepts/JavaScript%20Type%20Conversion.md)
 8. [Stack vs Heap memory](Concepts/Stack%20vs%20Heap%20memory.md)
 ---
-## 3. Variables & Scoping✅
+## 3. Variables & Scoping👩🏻‍💻
 1. [Js Variables](Concepts/Js%20Variables.md)
 2. [Scope](Concepts/Scope.md)
 3. [var vs let vs const](Concepts/var%20vs%20let%20vs%20const.md)
@@ -99,18 +97,16 @@ Revised - 🎓
 15. [Inline Event Handlers](Concepts/Inline%20Event%20Handlers.md)
 16. [Questions On DOM](Concepts/Questions%20On%20DOM.md)
 ---
-Learning - 👩🏻‍💻
-Learning Complete - ✅
-Revised - 🎓
+ 👩🏻‍💻✅ --> 🎓
 ## 8. BOM 👩🏻‍💻
 1. [BOM (Browser Object Model)](Concepts/BOM%20(Browser%20Object%20Model).md)
 2. [BOM vs DOM](Concepts/BOM%20vs%20DOM.md)
 ---
 ## 9. Promises & Async 👩🏻‍💻
 1. [Why Promises ?](Concepts/Why%20Promises.md) ✅
-2. [Promise Basics](Concepts/Promise%20Basics.md)
-3. [Promise Chaining](Concepts/Promise%20Chaining.md)
-4. [Promise Combinators](Concepts/Promise%20Combinators.md)
-5. async & await
+2. [Promise Basics](Concepts/Promise%20Basics.md) ✅
+3. [Promise Chaining](Concepts/Promise%20Chaining.md) 
+4. [Promise Combinators](Concepts/Promise%20Combinators.md) 
+5. async & await 
 6. The JavaScript Event Loop + Microtask Queue - [Event Loop](Concepts/Event%20Loop.md)
-7. [Promises Extra Concepts](Concepts/Promises%20Extra%20Concepts.md)
+7. [Promises Extra Concepts](Concepts/Promises%20Extra%20Concepts.md) 

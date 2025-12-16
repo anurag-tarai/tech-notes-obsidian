@@ -38,9 +38,10 @@ Inside `users`, you store many documents:
 
 ---
 ## 3. Database (Container for collections)
+A **database** is an organized collection of data that can be **stored, managed, and retrieved easily**.
 
+In MongoDB :
 A **database** is a container that holds **multiple collections**.
-Think of a database like a **folder**, and collections as **files** inside that folder.
 ### Example:
 Database: **companyDB**
 

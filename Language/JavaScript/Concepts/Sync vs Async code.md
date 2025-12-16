@@ -36,8 +36,9 @@
 
 ## 2️⃣ Asynchronous (Async) Code
 
-* **Execution:** Starts a task now, but immediately **continues executing other code** without waiting for the task to complete.
-* **Non-blocking:** The JS engine doesn't wait; it comes back to the task later when it's done.
+- **Code that does not block the main thread.**
+- Async code **starts execution and immediately allows the main thread to continue** executing other tasks, and **when the async operation completes, its result is placed in a queue and handled later by the main thread**.
+
 * **Mechanism:** Achieved using **callbacks, Promises, $\text{async/await}$, timers ($\text{setTimeout}$), $\text{fetch}$, and event handlers.**
     * *Analogy:* Ordering food and then sitting down to read while you wait for the food to be delivered to your table.
 
