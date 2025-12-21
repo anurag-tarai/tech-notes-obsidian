@@ -105,8 +105,19 @@
 ## 9. Promises & Async 👩🏻‍💻
 1. [Why Promises ?](Concepts/Why%20Promises.md) ✅
 2. [Promise Basics](Concepts/Promise%20Basics.md) ✅
-3. [Promise Chaining](Concepts/Promise%20Chaining.md) 
-4. [Promise Combinators](Concepts/Promise%20Combinators.md) 
-5. async & await 
-6. The JavaScript Event Loop + Microtask Queue - [Event Loop](Concepts/Event%20Loop.md)
-7. [Promises Extra Concepts](Concepts/Promises%20Extra%20Concepts.md) 
+3. [Promise Chaining](Concepts/Promise%20Chaining.md) ✅
+4. [Promise Combinators](Concepts/Promise%20Combinators.md) ✅
+5. [async & await](Concepts/async%20&%20await.md) 
+6. The JavaScript Event Loop + Microtask Queue - [Event Loop](Concepts/Event%20Loop.md) 
+
+---
+## 10. OOP in JavaScript
+1. [What is OOP](Concepts/What%20is%20OOP.md) ? 
+2. [Why OOP is used](Concepts/Why%20OOP%20is%20used.md) 
+3. [OOP in JavaScript](Concepts/OOP%20in%20JavaScript.md) 
+
+- Constructor functions
+- `this` keyword
+- Classes
+- Prototypes
+- Inheritance (extends, super)

@@ -4,7 +4,6 @@ JavaScript is **single-threaded**, so it can run only **one thing at a time**.
 But the browser can do many things (timers, fetch, events, rendering).
 
 The Event Loop connects JavaScript with the browser’s async systems.
-
 ##### How the Event Loop Works (Step-by-Step)
 
 ###### 1. JS runs code in the Call Stack

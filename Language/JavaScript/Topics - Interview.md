@@ -80,7 +80,7 @@
 
 ---
 
-## 7. DOM (Browser)
+## 7. DOM (Browser) `OK`
 - querySelector, getElementById
 - Create / remove elements
 - addEventListener
@@ -89,7 +89,7 @@
 
 ---
 
-## 8. BOM (Browser APIs)
+## 8. BOM (Browser APIs) `OK`
 - localStorage / sessionStorage
 - setTimeout / setInterval
 - clearTimeout / clearInterval
@@ -97,7 +97,7 @@
 
 ---
 
-## 9. Promises & Async
+## 9. Promises & Async `OK`
 - What is a Promise?
 - Promise states
 - then / catch / finally
@@ -107,7 +107,7 @@
 
 ---
 
-## 10. OOP in JavaScript
+## 10. OOP in JavaScript 
 - Constructor functions
 - `this` keyword
 - Classes
@@ -118,7 +118,7 @@
 
 ## 11. Core Concepts (Important)
 - Execution context & memory creation
-- Hoisting
+- `Deep copy vs shallow copy`
 - Closures
 - Lexical environment
 - Currying
@@ -126,7 +126,6 @@
 - Throttling
 
 ---
-
 ## 12. ES6+ Features
 - let, const
 - Arrow functions
@@ -139,13 +138,11 @@
 - Nullish coalescing
 
 ---
-
 ## 13. Error Handling
 - try / catch
 - throw custom error
 
 ---
-
 ## 14. JSON
 - JSON.parse
 - JSON.stringify
