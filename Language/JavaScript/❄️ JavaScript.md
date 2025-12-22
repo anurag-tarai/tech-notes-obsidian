@@ -115,9 +115,18 @@
 1. [What is OOP](Concepts/What%20is%20OOP.md) ? 
 2. [Why OOP is used](Concepts/Why%20OOP%20is%20used.md) 
 3. [OOP in JavaScript](Concepts/OOP%20in%20JavaScript.md) 
+4. [Prototype](Concepts/Prototype.md) 
+5. [OOP Questions JavaScript](Concepts/OOP%20Questions%20JavaScript.md) : Note is not complete, use this question set during learning again 
 
-- Constructor functions
-- `this` keyword
-- Classes
-- Prototypes
-- Inheritance (extends, super)
+---
+## 11. Core Concepts (Important)
+1. Execution context & memory creation - [Execution Context](Concepts/Execution%20Context.md) 
+2. Lexical environment
+
+- Execution context & memory creation
+- `Deep copy vs shallow copy`
+- Closures
+- Lexical environment
+- Currying
+- Debouncing
+- Throttling
