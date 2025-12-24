@@ -1,0 +1,1 @@
+HTML is not a programming language because it cannot perform logic, calculations, or decision-making; it only structures content.

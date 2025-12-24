@@ -2,17 +2,18 @@
 [Mongosh Commands](../../Databases/MongoDB/Concepts/Mongosh%20Commands.md)
 ## 1. Core Fundamentals 👩🏻‍💻
 1. [What is JavaScript ?](Concepts/What%20is%20JavaScript.md) 
-2. [HTML, CSS, JavaScript](Concepts/HTML,%20CSS,%20JavaScript.md) 
-3. [Js Where To](Concepts/Js%20Where%20To.md) 
-4. [JS Engine (V8), Runtime (Browser, Node.js)](Concepts/JS%20Engine%20(V8),%20Runtime%20(Browser,%20Node.js).md) 
-5. [JavaScript Output Methods](Concepts/JavaScript%20Output%20Methods.md) 
-6. [Execution Context](Concepts/Execution%20Context.md) ✅
-7. [Call Stack](Concepts/Call%20Stack.md) ✅
-8. [Sync vs Async code](Concepts/Sync%20vs%20Async%20code.md) ✅
-9. [Web APIs](Concepts/Web%20APIs.md) ✅
-10. [Microtask Queue](Concepts/Microtask%20Queue.md)  ✅
-11. [Macrotask Queue (Callback Queue)](Concepts/Macrotask%20Queue%20(Callback%20Queue).md) ✅
-12. [Event Loop](Concepts/Event%20Loop.md) ✅
+2. [Scripting  vs Normal (Programming) language](Concepts/Scripting%20%20vs%20Normal%20(Programming)%20language.md) 
+3. [HTML, CSS, JavaScript](Concepts/HTML,%20CSS,%20JavaScript.md) 
+4. [Js Where To](Concepts/Js%20Where%20To.md) 
+5. [JS Engine (V8), Runtime (Browser, Node.js)](Concepts/JS%20Engine%20(V8),%20Runtime%20(Browser,%20Node.js).md) 
+6. [JavaScript Output Methods](Concepts/JavaScript%20Output%20Methods.md) 
+7. [Execution Context](Concepts/Execution%20Context.md) ✅
+8. [Call Stack](Concepts/Call%20Stack.md) ✅
+9. [Sync vs Async code](Concepts/Sync%20vs%20Async%20code.md) ✅
+10. [Web APIs](Concepts/Web%20APIs.md) ✅
+11. [Microtask Queue](Concepts/Microtask%20Queue.md)  ✅
+12. [Macrotask Queue (Callback Queue)](Concepts/Macrotask%20Queue%20(Callback%20Queue).md) ✅
+13. [Event Loop](Concepts/Event%20Loop.md) ✅
 ---
 ## 2. Data Types👩🏻‍💻
 1. [Data Types In JS](Concepts/Data%20Types%20In%20JS.md)
