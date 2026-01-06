@@ -1,0 +1,1 @@
+It is called tabulation because we iteratively fill a DP table with solutions to subproblems in a bottom-up manner.

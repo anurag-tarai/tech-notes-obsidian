@@ -46,13 +46,13 @@
 
 ## 🧠 MVC Architecture
 
-|Topics|Status|Confidence (*/5)|Last Reviewed|🎯 Topic Weight (for Java Dev)|
-|---|---|---|---|---|
-|MVC Pattern Overview||||✅ High|
-|Integrating Servlets & JSP||||✅ High|
-|Using JavaBeans as Model||||⚙️ Medium|
-|Form Handling & Validation||||✅ High|
-|DAO & DTO Layers||||⚙️ Medium|
+| Topics                     | Status | Confidence (*/5) | Last Reviewed | 🎯 Topic Weight (for Java Dev) |
+| -------------------------- | ------ | ---------------- | ------------- | ------------------------------ |
+| MVC Pattern Overview       |        |                  |               | ✅ High                         |
+| Integrating Servlets & JSP |        |                  |               | ✅ High                         |
+| Using JavaBeans as Model   |        |                  |               | ⚙️ Medium                      |
+| Form Handling & Validation |        |                  |               | ✅ High                         |
+| DAO & DTO Layers           |        |                  |               | ⚙️ Medium                      |
 
 ---
 

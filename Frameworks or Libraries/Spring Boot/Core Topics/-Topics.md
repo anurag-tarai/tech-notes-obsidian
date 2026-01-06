@@ -2,18 +2,18 @@
 Ongoing  - 👩🏻‍💻
 Completed - ✅ done
 
-|Topics|Status|Confidence (*/5)|Last Reviewed|🎯 Topic Weight (for Java Dev)|
-|---|---|---|---|---|
-|Spring Basics (IoC, DI, Beans)||||✅ High|
-|Introduction to Spring Boot||||✅ High|
-|Spring Boot vs Spring Framework||||⚙️ Medium|
-|Spring Boot Architecture Overview||||✅ High|
-|Spring Boot Starters & Dependencies||||✅ High|
-|Auto-Configuration Mechanism||||✅ High|
-|Conditional Annotations (@ConditionalOn*)||||⚙️ Medium|
-|Custom Auto-Configuration Classes||||⚙️ Medium|
-|Spring Bean Lifecycle & Scopes||||✅ High|
-|Dependency Injection Annotations (@Autowired, @Qualifier, @Primary)||||✅ High|
+| Topics                                                              | Status | Confidence (*/5) | Last Reviewed | 🎯 Topic Weight (for Java Dev) |
+| ------------------------------------------------------------------- | ------ | ---------------- | ------------- | ------------------------------ |
+| Spring Basics (IoC, DI, Beans)                                      |        |                  |               | ✅ High                         |
+| Introduction to Spring Boot                                         |        |                  |               | ✅ High                         |
+| Spring Boot vs Spring Framework                                     |        |                  |               | ⚙️ Medium                      |
+| Spring Boot Architecture Overview                                   |        |                  |               | ✅ High                         |
+| Spring Boot Starters & Dependencies                                 |        |                  |               | ✅ High                         |
+| Auto-Configuration Mechanism                                        |        |                  |               | ✅ High                         |
+| Conditional Annotations (@ConditionalOn*)                           |        |                  |               | ⚙️ Medium                      |
+| Custom Auto-Configuration Classes                                   |        |                  |               | ⚙️ Medium                      |
+| Spring Bean Lifecycle & Scopes                                      |        |                  |               | ✅ High                         |
+| Dependency Injection Annotations (@Autowired, @Qualifier, @Primary) |        |                  |               | ✅ High                         |
 
 ---
 

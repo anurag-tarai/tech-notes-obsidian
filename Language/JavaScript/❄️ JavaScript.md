@@ -1,9 +1,9 @@
 👩🏻‍💻 ✅ --> 🎓
 [Mongosh Commands](../../Databases/MongoDB/Concepts/Mongosh%20Commands.md)
 ## 1. Core Fundamentals 👩🏻‍💻
-1. [What is JavaScript ?](Concepts/What%20is%20JavaScript.md) 
+1. [What is JavaScript](Concepts/What%20is%20JavaScript.md)
 2. [Scripting  vs Normal (Programming) language](Concepts/Scripting%20%20vs%20Normal%20(Programming)%20language.md) 
-3. [HTML, CSS, JavaScript](Concepts/HTML,%20CSS,%20JavaScript.md) 
+3. [HTML, CSS, JavaScript](Concepts/HTML,%20CSS,%20JavaScript.md)  
 4. [Js Where To](Concepts/Js%20Where%20To.md) 
 5. [JS Engine (V8), Runtime (Browser, Node.js)](Concepts/JS%20Engine%20(V8),%20Runtime%20(Browser,%20Node.js).md) 
 6. [JavaScript Output Methods](Concepts/JavaScript%20Output%20Methods.md) 
@@ -122,7 +122,7 @@
 ---
 ## 11. Core Concepts (Important)
 1. Execution context & memory creation - [Execution Context](Concepts/Execution%20Context.md) 
-2. Lexical environment
+2. Lexical environment 
 
 - Execution context & memory creation
 - `Deep copy vs shallow copy`
