@@ -44,31 +44,27 @@ These sections alone cover **70–80%** of Infosys test patterns.
 ### ✅ DO (Must-Do List)
 
 #### Easy
-
+	
 Do **ALL** except union optional:
 
-- Largest element
+- Largest element ✅
     
-- Second largest
+- Second largest ✅
     
-- Check sorted
+- Check sorted ✅
     
-- Remove duplicates
+- Remove duplicates ✅
     
-- Rotate array (1 & D places)
+- Rotate array (1 & D places) ✅
     
-- Move zeros
+- Move zeros ✅
     
-- Linear search
+- Find missing number ✅
     
-- Find missing number
-    
-- Maximum consecutive ones
-    
-- Number appearing once
+- Number appearing once ✅
     
 
-⚠️ _Union → optional_
+⚠️ _Union → optional _ ✅
 
 ---
 
