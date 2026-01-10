@@ -72,7 +72,7 @@ Do **ALL** except union optional:
 
 Do these **100%**:
 
-- Two Sum
+- Two Sum ✅
     
 - Sort 0s 1s 2s
     
@@ -471,9 +471,9 @@ DO:
 
 ### ✅ DO
 
-- BFS
+- BFS ✅
     
-- DFS
+- DFS ✅
     
 - Number of provinces
     

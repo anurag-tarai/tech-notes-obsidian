@@ -1,7 +1,7 @@
-A **graph** is a **data structure** used to represent **connections (relationships)** between different objects.
+A Graph is a non-linear data structure that consists of vertices (nodes) and edges.
 ### Basic Definition
 A **graph** consists of:
-- **Vertices (Nodes)** → the entities
+- **Vertices (Nodes)** → the entities/objects
 - **Edges** → the connections between the entities
 
 📌 **Formally:**  
