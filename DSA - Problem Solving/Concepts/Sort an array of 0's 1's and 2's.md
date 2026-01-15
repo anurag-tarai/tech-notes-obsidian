@@ -3,7 +3,6 @@ https://leetcode.com/problems/sort-colors/
 -> Sort (Merge Sort)
 - TC - O(nlogn)
 - SC - O(n)
-
 ## Better
 ```java
 public void sortColors(int[] nums) {  

@@ -74,13 +74,13 @@ Do these **100%**:
 
 - Two Sum ✅
     
-- Sort 0s 1s 2s
+- Sort 0s 1s 2s✅
     
-- Majority Element (> n/2)
+- Majority Element (> n/2)✅
     
-- **Kadane’s Algorithm** ⭐
+- **Kadane’s Algorithm** ⭐✅
     
-- Stock Buy & Sell
+- Stock Buy & Sell✅
     
 - Longest Consecutive Sequence
     

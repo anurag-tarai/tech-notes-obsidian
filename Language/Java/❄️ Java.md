@@ -4,5 +4,6 @@ No need to start from zero, choose a question, don't know, make note here, only 
 2. [Does ArrayList uses linked list internaly](Concepts/Does%20ArrayList%20uses%20linked%20list%20internaly.md)
 3. [Array Vs ArrayList](Concepts/Array%20Vs%20ArrayList.md)
 ---
-## ⚠️ Exception Handling
-1. What is Ec
+## Basic
+1. Access Modifier
+2. [Polymorphism](Concepts/Polymorphism.md) 
