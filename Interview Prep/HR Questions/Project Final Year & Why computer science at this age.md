@@ -1,0 +1,11 @@
+#### Additional question(s)
+
+## Please describe a full-stack application you have developed. What tech stack did you use? What challenges did you face, and how did you solve them?
+Farmer Connect (MCA Final Year Project) Live: https://farmer-connect-web.vercel.app/ Developed a full-stack, location-based web platform during my MCA final year to directly connect farmers with nearby buyers, eliminating middlemen and enabling transparent local trade. Enabled farmers to list, edit, and manage products with location tagging and AWS S3 image uploads, while buyers can explore nearby farm products on an interactive map, filter by category, and view detailed product information. Built and secured 30+ RESTful APIs using Spring Boot, Spring Data JPA, and JWT authentication. Integrated AWS RDS for database management and AWS S3 for media storage; deployed backend on Render and frontend on Vercel. Designed a responsive React + Tailwind CSS UI with Leaflet map integration for real-time product visualization.
+
+Problem I faced : 
+1. I stored jwt in localstorage, but it bad so I used http cookies
+2. Recent, I have mistakely pushed aws secretes to git hub, so that a new policy added to that AIM used which deny access all services, so My s3, ec2, rds stopped working, deployed app failed, and showing many error, at first I was confused, because I was already removed the credentials from git, as git guardian emailed me, and it also send to aws thats why that IAM account got blocked. then from root account I delete that old secrete key and add a new one, and allow that IAM access.
+3. 
+## At what age did you start coding, and why?
+In final year of B.Sc I was not sure what I want to do with my life, I don't choose physics my own, my parents or where I grow up they prefer GOVT job over private. I was given two option bsc in physics or math, because in countryside they are most reputed subjects. Very few people know about computer science or development. Then in final year of bsc i was looking on internet what other things i can do after bsc, i go to know about mca, then know about coding, I started learning C, i don't laptop or pc that time, so I used my phone to code, print using loop, small logic code. It was fun, then I decided to do MCA, official course, that time I purchase a laptop, now I think its the best decision of my life.

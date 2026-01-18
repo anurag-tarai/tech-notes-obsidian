@@ -101,7 +101,7 @@
 
 ---
 
-## 7. Sorting & Pagination
+## 7. Sorting & Pagination `Done`
 - ORDER BY (ASC / DESC)
 - LIMIT
 - OFFSET
@@ -121,7 +121,7 @@
 
 ---
 
-## 9. Joins
+## 9. Joins `Done`
 
 ### Join Types
 - INNER JOIN
@@ -136,7 +136,7 @@
 
 ---
 
-## 10. Subqueries
+## 10. Subqueries 
 - Subquery in WHERE
 - Subquery in SELECT
 - Subquery in FROM

@@ -6,8 +6,8 @@ This document explains how to integrate AWS S3 for file uploads in a Spring Boot
 1. Login to AWS console as an **IAM user**.
 2. Create a **bucket**:
    - Example: `anurags-first-bucket-10-2025`
-   - Region: `ap-south-1`
-3. Bucket settings:
+   - Region: `ap-south-1` 
+1. Bucket settings:
    - **Block all public access**: optional, can allow public-read if needed.
    - **Object Ownership**: set to **Bucket owner enforced** (ACLs disabled).
 4. IAM Policy for the user:
