@@ -192,7 +192,7 @@ DO:
 
 ### ✅ DO (ALL BASIC)
 
-- Reverse words
+- Reverse words ✅
     
 - Largest odd number
     
@@ -392,7 +392,7 @@ DO:
 
 ### ✅ DO ALL
 
-- Assign Cookies
+- Assign Cookies ✅
     
 - Fractional Knapsack
     

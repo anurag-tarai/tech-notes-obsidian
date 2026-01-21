@@ -3,3 +3,5 @@
 3. [Arrays](Concepts/Arrays.md) 
 4. [Graphs](Concepts/Graphs.md) 
 5. [String (DSA)](Concepts/String%20(DSA).md) 
+6. [Greedy](Concepts/Greedy.md) 
+7. [🌳 Tree](Concepts/🌳%20Tree.md) 
