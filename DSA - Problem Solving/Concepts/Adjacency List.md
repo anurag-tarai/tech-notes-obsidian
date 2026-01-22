@@ -2,6 +2,13 @@
 - For each node, store a **list of its neighbors**
 - Space efficient
 
+### Space Complexity
+- `O(V+E)​`
+- **V** → one list for each vertex
+- **E** → total edges stored in lists
+An **adjacency list** stores: 
+1. **One list for each vertex** → takes **O(V)** space
+2. **One entry per edge** (twice for undirected graphs) → takes **O(E)** space
 ## Undirected Graph (Unweighted) :
 if 1 based indexing, we have create n+1 sub arraylist 
 ```java

@@ -1,5 +1,5 @@
 ![](Screenshot%20from%202026-01-09%2017-37-22.png)
-These four is can be part of single Graph.
+These single represent one connect components, whole represent a disconnected graph.
 
 A **connected component** is a **maximal set of vertices** such that  
 👉 **every vertex in the set is reachable from every other vertex in the same set**.

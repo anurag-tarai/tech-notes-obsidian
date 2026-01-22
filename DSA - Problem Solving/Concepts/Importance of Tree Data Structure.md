@@ -1,4 +1,4 @@
 - Trees are useful for storing data that naturally forms a hierarchy.
 - File systems on computers are structured as trees, with folders containing subfolders and files.
-- The DOM (Document Object Model) of an HTML page is a tree:The `<html>` tag is the root.`<head>` and `<body>` are its children.These tags can have their own child nodes, forming a hierarchical structure.
+- The DOM (Document Object Model) of an HTML page is a tree:The `<html>` tag is the root.`<head>` and <body> are its children.These tags can have their own child nodes, forming a hierarchical structure.
 - Trees help in efficient data organization and retrieval for hierarchical relationships.

@@ -3,5 +3,7 @@
 3. [Why Tree is considered a non-linear data structure](Why%20Tree%20is%20considered%20a%20non-linear%20data%20structure.md)?
 4. [Importance of Tree Data Structure](Importance%20of%20Tree%20Data%20Structure.md) 
 5. [Types of Tree Data Structures](Types%20of%20Tree%20Data%20Structures.md) 
-6. [Binary Tree](Binary%20Tree) 
-7.  
+## Binary Tree
+1. [Binary Tree](Binary%20Tree) 
+2. [Types of Binary Trees](Types%20of%20Binary%20Trees.md) 
+3. 

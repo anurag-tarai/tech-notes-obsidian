@@ -12,6 +12,7 @@
         }
     }
 ```
+
 How to call it:
 ```java
 int V = 6;  // number of vertices (1-based indexing)

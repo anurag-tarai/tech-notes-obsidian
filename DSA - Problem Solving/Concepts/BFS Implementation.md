@@ -35,7 +35,7 @@ void bfs(int start, ArrayList<ArrayList<Integer>> graph, int V) {
     // Queue for BFS (FIFO)
     Queue<Integer> q = new LinkedList<>();
     
-    ArrayList<Integer> bfs = new ArrayList<>();
+    ArrayList<Integer> bfsOrder = new ArrayList<>();
 
     // Mark the starting node as visited
     visited[start] = true;
@@ -49,7 +49,7 @@ void bfs(int start, ArrayList<ArrayList<Integer>> graph, int V) {
         // Remove the front element from the queue
         int node = q.poll();
 
-		bfs.add(node);
+		bfsOrder.add(node);
 		
         // Process the current node
         System.out.print(node + " ");

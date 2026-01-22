@@ -65,20 +65,14 @@
 ## 🔹 Property-based (Frequently Asked)
 
 ### 7️⃣ **Cyclic Graph**
-
 - Contains a cycle
-    
 - Cycle detection problems
-    
 
 ---
 
 ### 8️⃣ **Acyclic Graph**
-
 - No cycles
-    
 - Includes trees & DAGs
-    
 
 ---
 

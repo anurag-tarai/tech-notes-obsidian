@@ -1,5 +1,5 @@
-![](Screenshot%20from%202026-01-09%2017-08-59.png)
-
+![](Screenshot%20from%202026-01-09%2017-08-59.png) 
+It works if - one based indexing
 ### Idea
 - 2D array
 - `matrix[i][j] = 1` → edge exists

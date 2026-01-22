@@ -5,5 +5,5 @@ Example :
 ```java
 A ——5—— B
 ```
-- Weight = **5**
-- Meaning: cost/distance/time between A and B is 5 units
+- Weight = **5** 
+- Meaning: cost/distance/time between A and B is 5 units 

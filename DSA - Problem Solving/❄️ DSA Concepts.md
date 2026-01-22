@@ -5,3 +5,4 @@
 5. [String (DSA)](Concepts/String%20(DSA).md) 
 6. [Greedy](Concepts/Greedy.md) 
 7. [🌳 Tree](Concepts/🌳%20Tree.md) 
+8. [Bit Manipulation](Concepts/Bit%20Manipulation.md) 
