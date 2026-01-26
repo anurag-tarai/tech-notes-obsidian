@@ -16,7 +16,6 @@
     
 
 ---
-
 ## 2. Core Spring Concepts
 
 - Inversion of Control (IoC)
@@ -146,7 +145,6 @@
     
 
 ---
-
 ## 8. Spring Data JPA
 
 - JpaRepository vs CrudRepository

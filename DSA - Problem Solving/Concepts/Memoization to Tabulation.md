@@ -12,7 +12,7 @@ Identify the base case
 fib(0) = 0
 fib(1) = 1
 ```
-Recursive Formula 
+Recursive Formula
 ```java
 fib(i) = fib(i-1) + fib(i-2)
 ```

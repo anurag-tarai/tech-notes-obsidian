@@ -1,6 +1,5 @@
-# `java.io`
+# `java.io` 
 Package (Traditional I/O API):
-
 This package offers fundamental classes for stream-based input and output operations.
 
 ## `java.io.File` 
@@ -77,7 +76,7 @@ import java.io.IOException;
 
 public class WriteToFile {
   public static void main(String[] args) {
-    // FileWriter will be closed automatically here
+    // FileWrite---r will be closed automatically here
     try (FileWriter myWriter = new FileWriter("filename.txt")) {
       myWriter.write("Files in Java might be tricky, but it is fun enough!");
       System.out.println("Successfully wrote to the file.");

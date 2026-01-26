@@ -82,11 +82,11 @@ Completed - ✅
 | ------------------------------------------------ | ------- | ---------------- | ------------- | ------------------------------ |
 | String Class & Methods                           |         |                  |               | ✅ High                         |
 | StringBuilder & StringBuffer                     |         |                  |               | ⚙️ Medium                      |
-| [[File Handling & File Class]]                   | ✅       | 5                | 13 oct 25     | ✅ High                         |
-| [[Java IO Streams]]                              | ✅       | 5                | 13 oct 25     | ⚙️ Medium                      |
+| [[Concepts/java.io & File Class]]                   | ✅       | 5                | 13 oct 25     | ✅ High                         |
+| [[Concepts/Java IO Streams]]                              | ✅       | 5                | 13 oct 25     | ⚙️ Medium                      |
 | Reader & Writer Classes                          | ✅       | 2                | 13 oct 25     | ⚙️ Medium                      |
-| [[Small Project File Handling - Terminal Based]] | ✅       | 5                | 13 oct 25     | ✅ High                         |
-| [[Serialization & Deserialization]]              | 👩🏻‍💻 |                  |               | ✅ High                         |
+| [[Concepts/Small Project File Handling - Terminal Based]] | ✅       | 5                | 13 oct 25     | ✅ High                         |
+| [[Concepts/Serialization & Deserialization]]              | 👩🏻‍💻 |                  |               | ✅ High                         |
 |                                                  |         |                  |               |                                |
 |                                                  |         |                  |               |                                |
 

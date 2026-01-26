@@ -1,3 +1,4 @@
+
 | Java Version | Release Year | Major Features / Changes                                                                                                                                   |
 | ------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Java 8**   | 2014         | Lambda expressions, Streams API, new Date/Time API (java.time), default methods in interfaces, Optional class.                                             |

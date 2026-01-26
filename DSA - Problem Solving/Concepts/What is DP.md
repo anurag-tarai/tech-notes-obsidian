@@ -1,13 +1,17 @@
-> **Dynamic Programming = Optimized Recursion**
+> **Dynamic Programming (DP)** is a problem-solving technique where you **break a problem into smaller overlapping subproblems**, **solve each subproblem once**, and **store their results** so you don’t recompute them again.
 
-DP is used when:
-1. **Same subproblems repeat**
-2. **Big problem can be broken into smaller ones**
+## When do we use Dynamic Programming?
+A problem is suitable for DP if it has:
 
-Instead of recalculating again and again, we **store the result** and reuse it.
+1. **Overlapping subproblems**  
+    Same subproblems appear again and again  
+    (e.g., Fibonacci)
+    
+2. **Optimal substructure**  
+    Optimal solution of a problem can be built from optimal solutions of its subproblems  
+    (e.g., shortest path, knapsack)
 
 ---
-
 ## DP has 3 main approaches
 
 ### 1. **Recursion (Brute Force)**
