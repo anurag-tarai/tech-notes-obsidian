@@ -1,6 +1,6 @@
 ## Definition
 
-> **A SELF JOIN is a join where a table is joined with itself** to compare rows within the same table.
+>  **SELF JOIN is used to join a table with itself to represent relationships between rows in the same table, such as employees and their managers.**
 
 ## Syntax
 ```sql

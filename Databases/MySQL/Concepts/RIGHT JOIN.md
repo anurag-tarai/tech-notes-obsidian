@@ -1,8 +1,7 @@
 ## Definition
 
 > **RIGHT JOIN returns all records from the right table and the matching records from the left table.  
-> If there is no match, the result contains `NULL` values for columns from the left table.**
-
+> If a row in the right table has **no match in the left table**, then **left table columns are filled with NULL**
 ## Syntax
 ```sql
 SELECT column_name(s)

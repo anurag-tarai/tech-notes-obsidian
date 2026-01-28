@@ -29,11 +29,12 @@ JOIN  ≡  INNER JOIN
 
 ### Using Subquery
 ```sql
-SELECT DISTINCT c.CustomerName
-FROM Customers c
-JOIN Orders o
-ON c.CustomerID = o.CustomerID;
-
+SELECT DISTINCT CustomerName
+FROM Customers
+WHERE CustomerID IN (
+    SELECT CustomerID
+    FROM Orders
+);
 ```
 
 ---

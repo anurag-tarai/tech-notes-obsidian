@@ -1,7 +1,6 @@
 ## Definition
 
-> **FULL OUTER JOIN returns all records when there is a match in either table.  
-> Unmatched rows contain NULL values.**
+>**FULL OUTER JOIN returns all records from both tables. Matching rows from the two tables are combined, and for non-matching rows from either table filled with NULL in place of missing values.
 
 ## MySQL Limitation
 

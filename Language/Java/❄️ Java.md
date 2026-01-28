@@ -5,8 +5,8 @@ No need to start from zero, choose a question, don't know, make note here, only 
 3. [Array Vs ArrayList](Concepts/Array%20Vs%20ArrayList.md)
 ---
 ## Basic
-1. Access Modifier
-2. [Polymorphism](Concepts/Polymorphism.md) 
+1. Access Modifier - use telusko notes
+2. [Polymorphism](Concepts/Polymorphism.md) - use telusko notes 
 ---
 ## File Handling - [File Handling - Complete Syllabus](Concepts/File%20Handling%20-%20Complete%20Syllabus.md) 
 1. [Basics of File Handling](Concepts/Basics%20of%20File%20Handling.md) 
@@ -30,3 +30,24 @@ No need to start from zero, choose a question, don't know, make note here, only 
 12. [Custom Exception](Concepts/Custom%20Exception.md) 
 13. [Global Exception Handler](Concepts/Global%20Exception%20Handler.md) 
 --- 
+## COLLECTIONS FRAMEWORK 
+1. [Java Data Structures](Concepts/Java%20Data%20Structures.md) 
+2. [What is Collection Framework](Concepts/What%20is%20Collection%20Framework.md) ?
+3. [Why do we need Collections in Java](Concepts/Why%20do%20we%20need%20Collections%20in%20Java.md) ?
+4. [Java Collection Framework Hierarchy](Concepts/Java%20Collection%20Framework%20Hierarchy.md) 
+5. [Collection Interface](Concepts/Collection%20Interface.md) 
+6. [List Interface](Concepts/List%20Interface.md) 
+7. [ArrayList Vs LinkedList](Concepts/ArrayList%20Vs%20LinkedList.md)
+8. [Set Interface](Concepts/Set%20Interface.md) 
+9. [HashSet, LinkedHashSet & TreeSet](Concepts/HashSet,%20LinkedHashSet%20&%20TreeSet.md) 
+10. [Map Interface](Concepts/Map%20Interface.md) 
+11. [HashMap](Concepts/HashMap.md) 
+12. [HashMap vs Hashtable](Concepts/HashMap%20vs%20Hashtable.md) 
+13. [Fail-fast vs Fail-safe](Concepts/Fail-fast%20vs%20Fail-safe.md) 
+14. [Iterator & ListIterator](Concepts/Iterator%20&%20ListIterator.md) 
+15. [Comparable vs Comparator](Concepts/Comparable%20vs%20Comparator.md) 
+16. [Sorting](Concepts/Sorting.md) 
+17. [Collections Utility Class](Concepts/Collections%20Utility%20Class.md) 
+18. [Time Complexity](Concepts/Time%20Complexity.md) 
+19. [Equals() & hashCode()](Concepts/Equals()%20&%20hashCode().md) 
+---

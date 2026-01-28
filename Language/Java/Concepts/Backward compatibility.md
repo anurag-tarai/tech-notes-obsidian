@@ -1,0 +1,1 @@
+**Backward compatibility** means **new versions still work with old code or old clients** without breaking them.

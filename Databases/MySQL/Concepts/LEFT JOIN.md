@@ -3,6 +3,8 @@
 > and matching rows from the right table (Customers).  
 > If no match → `NULL`.
 
+Mean : If there is **no match in the right table**, the right table’s columns are filled with **NULL**
+
 ```sql
 SELECT _column_name(s)_  
 FROM _table1_  
@@ -22,11 +24,11 @@ _ON _table1.column_name_ = _table2.column_name_;
 
 ### Customers
 
-|CustomerID|CustomerName|
-|---|---|
-|1|Alfreds Futterkiste|
-|2|Ana Trujillo Emparedados y helados|
-|3|Antonio Moreno Taquería|
+| CustomerID | CustomerName                       |
+| ---------- | ---------------------------------- |
+| 1          | Alfreds Futterkiste                |
+| 2          | Ana Trujillo Emparedados y helados |
+| 3          | Antonio Moreno Taquería            |
 
 ## LEFT JOIN Query
 
