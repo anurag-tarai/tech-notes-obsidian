@@ -1,0 +1,1 @@
+An **annotation** is a form of **metadata** in Java that is used to **provide information to the compiler, framework, or runtime environment** without changing the actual business logic of the code.

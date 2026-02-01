@@ -1,0 +1,13 @@
+
+- Spring Data JPA
+- Maven
+- Hibernate
+- What does Repository Do
+- SOLID principle
+- Rest, Restful, api
+- HTTP
+- HTTPS
+- ResponseEntity
+- HTTP method
+- Spring Security
+- JWT Flow

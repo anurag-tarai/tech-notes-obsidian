@@ -1,0 +1,1 @@
+We need the controller to be a Spring bean so that Spring can manage it, map HTTP requests to it, and inject its dependencies.
