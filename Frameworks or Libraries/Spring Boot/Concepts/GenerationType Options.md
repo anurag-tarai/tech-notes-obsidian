@@ -1,0 +1,6 @@
+| Strategy     | Meaning                               | How it works                                                               | Notes                                                                                        |
+| ------------ | ------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **AUTO**     | Automatic selection                   | JPA picks the best strategy for your database (usually SEQUENCE or TABLE)  | Default option. Most flexible.                                                               |
+| **IDENTITY** | Database auto-increment               | Uses the database’s built-in auto-increment (e.g., MySQL `AUTO_INCREMENT`) | Good for MySQL, but you **cannot batch insert** easily.                                      |
+| **SEQUENCE** | Uses a database sequence              | JPA uses a sequence object in DB to generate unique IDs                    | Common in Oracle, PostgreSQL. You can customize the sequence name with `@SequenceGenerator`. |
+| **TABLE**    | Uses a separate table to generate IDs | JPA creates a table to store the next ID value                             | Works everywhere but **slower**; rarely used in modern apps.                                 |

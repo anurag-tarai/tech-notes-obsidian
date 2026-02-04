@@ -1,4 +1,4 @@
-## 1️⃣ Basic REST APIs (GET/POST)
+## 1️⃣ Basic REST APIs (GET/POST)`Done`
 
 1. Create a **GET API** that returns “Hello Spring Boot”.
     

@@ -1,9 +1,8 @@
-### Will the code run?
-👉 **Yes.**
-
+### Will the code run? 
+👉 **Yes.** 
 - `@Service` and `@Repository` are **specializations of `@Component`**.
 - Spring will still detect the class during component scanning and create the bean.
-## Then What’s the Problem?
+## Then What’s the Problem? 
 ### Service Layer (`@Service`)
 - Loses **business-layer semantics** (unclear intent).
 - Reduces **readability and maintainability**.

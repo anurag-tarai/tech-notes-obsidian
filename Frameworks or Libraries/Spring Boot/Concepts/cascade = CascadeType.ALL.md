@@ -1,0 +1,1 @@
+`cascade = CascadeType.ALL` makes sure that **all operations (save, update, delete, etc.) on the parent automatically propagate to the child entities**, so you don’t have to manage them manually.

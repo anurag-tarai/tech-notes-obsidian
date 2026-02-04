@@ -4,6 +4,6 @@
 4. [Importance of Tree Data Structure](Importance%20of%20Tree%20Data%20Structure.md) 
 5. [Types of Tree Data Structures](Types%20of%20Tree%20Data%20Structures.md) 
 ## Binary Tree
-1. [Binary Tree](Binary%20Tree) 
+1. [Binary Tree](Binary%20Tree.md) 
 2. [Types of Binary Trees](Types%20of%20Binary%20Trees.md) 
 3. 

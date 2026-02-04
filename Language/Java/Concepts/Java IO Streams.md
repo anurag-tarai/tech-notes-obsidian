@@ -24,11 +24,11 @@ These three are different concepts - [[Stream, IO Stream, Stream API]]
 - Use **Byte Streams** for binary files.
 
 ## 1. Byte Streams
-#### [[Concepts/FileInputStream]]
-#### [[Concepts/FileOutputStream]]
+#### [[FileInputStream]]
+#### [[FileOutputStream]]
 
 ## 2. Character Streams
-#### [[Concepts/BufferedReader]]
-#### [[Concepts/BufferedWriter]]
+#### [[BufferedReader]]
+#### [[BufferedWriter]]
 
 

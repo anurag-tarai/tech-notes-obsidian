@@ -4,9 +4,9 @@
 `@Controller` is a **Spring annotation used to define a web controller** that handles HTTP requests and returns **views** (like JSP, Thymeleaf, HTML).
 
 **Key Points:**
-- Used in **Spring MVC applications**
-- Returns **view names** by default
-- Needs `@ResponseBody` on methods to return **JSON or XML**
+- Used in **Spring MVC applications** 
+- Returns **view names** by default 
+- Needs `@ResponseBody` on methods to return **JSON or XML** 
 ```java
 @Controller
 public class UserController {
