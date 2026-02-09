@@ -1,9 +1,18 @@
-1. [Array & String](Array%20&%20String.md) Basics
-2. Generics & Stream
-3. Collection Framework Note Revise
-4. Collection Framework Questions - Real Scinario Types : Questions Dealing with collections of object, like filtering student, grouping employee based on department, or many other. Brute force + Stream 
-5. Popular DSA Questions like - Two Sum, Best time to buy and sell stocks, Other on strings, other ..........
-6. Design API - LLD
+4-5
+5 Revise all methods - 15 min
+Note revise only
+5:30 pm - ready for the test, no study anymore!
+
+1. Time complexity basics
+2. Revise collections
+3. two sum 
+4. best time buy and sell stock
+5. valid parenthesis
+6. that string problems - from 1st round
+
 ---
-Less Important
-1. Basic Most Asked Coding Question
+Other
+Two Sum
+Best Time Buy and Sell Stock
+Valid Parenthesis - With stack, without it
+

@@ -1,0 +1,16 @@
+# Rejected
+- 5 Feb - DSA Round
+- Should have 2-3 questions
+- But get stuck in one question
+- In Bengaluru, company ask heavy DSA
+- My previous rounds are gone good, so HR want I get hired,
+- So explicitly told, you get feedback, and we got a good feedback itself,
+- That mean she want I get hired, that why she said me explicitly that learn from those mistake, don't make the same in next round, also said give your best
+- But I messed it up, there should be 2-3 problem, I am not able solve even one
+- Now today 6pm - 6 Feb
+- They reposted that job, don't get wrong idea, it is automated by linkedin
+- No its not, because they done this before
+- A month ago they posted this job, I that time also they did not get the candidate they want,
+- Then they reposted again my time a week ago, now 
+- This time they also did not get any good
+- Thats why they re-posted it again, that mean, they hiring again
