@@ -1,6 +1,6 @@
-1. [Basic Structure of Singly Linked List](Basic%20Structure%20of%20Singly%20Linked%20List.md)
-2. [traverse](traverse.md)
-3. [Insert at head](Insert%20at%20head.md)
+1. [Node, Singly Linked List - add, traverse, isEmpty](Node,%20Singly%20Linked%20List%20-%20add,%20traverse,%20isEmpty.md) 
+2. [traverse](traverse.md) 
+3. [Insert at head](Insert%20at%20head.md) 
 4. 
 
 

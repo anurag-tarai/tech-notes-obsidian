@@ -1,0 +1,3 @@
+“In the e-canteen module, a large portion of traffic was read-heavy — such as menu listings, item details, and user data.  
+Before Redis, every request resulted in a database query. After caching these frequently accessed endpoints with Redis and a TTL, repeated requests were served directly from cache.  
+By comparing request patterns and database query frequency before and after caching, we observed that roughly 3–4 out of every 10 requests no longer hit the database, which is why we estimate a 30–40% reduction in database load.”

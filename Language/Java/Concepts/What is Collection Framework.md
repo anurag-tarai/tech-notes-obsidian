@@ -3,7 +3,7 @@
 Introduced in : `Java 1.2`
 Package : `java.util`
 ### Example :
-Interfaces : `List`, `Set`, and `Map`
+Interfaces : `List`, `Set`, and `Map` 
 Classes : `ArrayList`, `HashSet`, `HashMap`
 
 
