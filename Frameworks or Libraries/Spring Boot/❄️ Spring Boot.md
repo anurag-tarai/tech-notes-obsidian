@@ -25,10 +25,21 @@ Builder Pattern
 ## Lombok
 1. [@Data](Concepts/@Data.md) 
 
+
+## Spring Security
+
+
+
+## Questions
+1. [Why Product, Item - Integer & User, RefreshToken - Long](Concepts/Why%20Product,%20Item%20-%20Integer%20&%20User,%20RefreshToken%20-%20Long.md)
+
+
+---
 [Boilerplate Code](Concepts/Boilerplate%20Code.md) 
 For `Service` Using Interface + Implementation (Recommended for bigger projects)
 
 
+- Java Record
 - Maven
 - SOLID principle
 - Rest, Restful, api
@@ -38,3 +49,4 @@ For `Service` Using Interface + Implementation (Recommended for bigger projects)
 - HTTP method
 - Spring Security
 - JWT Flow
+- Stateless, Stateless RestAPI

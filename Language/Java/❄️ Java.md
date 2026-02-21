@@ -51,3 +51,175 @@ No need to start from zero, choose a question, don't know, make note here, only 
 18. [Time Complexity](Concepts/Time%20Complexity.md) 
 19. [Equals() & hashCode()](Concepts/Equals()%20&%20hashCode().md) 
 ---
+## GENERICS
+1. [What is Generics in Java](Concepts/What%20is%20Generics%20in%20Java.md)?
+2. [Why Use Generics](Concepts/Why%20Use%20Generics.md)?
+3. [Generic Class](Concepts/Generic%20Class.md) 
+4. [Generic Class with Multiple Type Parameters](Concepts/Generic%20Class%20with%20Multiple%20Type%20Parameters.md) 
+5. [Generic Method](Concepts/Generic%20Method.md) 
+ 
+- Bounded types
+    
+- Wildcards
+    
+    - `?`
+        
+    - `? extends`
+        
+    - `? super`
+        
+- Type erasure
+    
+- Limitations of Generics\
+
+---
+# 🚀 Java 8 Specific Features (MOST IMPORTANT)
+
+## 5️⃣ Lambda Expressions
+
+- Syntax
+    
+- Functional interfaces
+    
+- Built-in functional interfaces
+    
+    - `Predicate`
+        
+    - `Function`
+        
+    - `Consumer`
+        
+    - `Supplier`
+        
+- Method references
+    
+- Constructor references
+    
+
+---
+
+## 6️⃣ Functional Interfaces
+
+- `@FunctionalInterface` annotation
+    
+- Custom functional interfaces
+    
+- Default methods
+    
+- Static methods in interfaces
+    
+
+---
+
+## 7️⃣ Stream API (Very Important for Interviews)
+
+- What is Stream?
+    
+- Stream pipeline
+    
+- Intermediate operations
+    
+    - `filter`
+        
+    - `map`
+        
+    - `flatMap`
+        
+    - `sorted`
+        
+    - `distinct`
+        
+- Terminal operations
+    
+    - `collect`
+        
+    - `forEach`
+        
+    - `reduce`
+        
+    - `count`
+        
+- Collectors
+    
+    - `groupingBy`
+        
+    - `partitioningBy`
+        
+    - `joining`
+        
+    - `mapping`
+        
+- Parallel streams
+    
+- Difference between Collection & Stream
+    
+
+---
+
+## 8️⃣ Optional Class
+
+- `Optional.of()`
+    
+- `Optional.ofNullable()`
+    
+- `Optional.empty()`
+    
+- `isPresent()`
+    
+- `orElse()`
+    
+- `orElseGet()`
+    
+- `orElseThrow()`
+    
+- Why Optional is used
+    
+
+---
+
+## 9️⃣ Date & Time API (java.time package)
+
+- `LocalDate`
+    
+- `LocalTime`
+    
+- `LocalDateTime`
+    
+- `Period`
+    
+- `Duration`
+    
+- `DateTimeFormatter`
+    
+- Difference between old Date API & new API
+    
+
+---
+
+## 🔟 Default & Static Methods in Interfaces
+
+- Why introduced?
+    
+- Diamond problem in interfaces
+    
+- Conflict resolution
+    
+
+---
+
+## 1️⃣1️⃣ Nashorn JavaScript Engine (Basic Awareness)
+
+- Running JavaScript in Java
+    
+
+---
+
+## 1️⃣2️⃣ Other Important Topics
+
+- Type inference (`var` not in Java 8, but inference in lambdas)
+    
+- Method references
+    
+- Annotations
+    
+- Serialization basics
