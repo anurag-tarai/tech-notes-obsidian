@@ -16,7 +16,6 @@ public <T> returnType methodName(T parameter) {
 ### Example 1: Simple Generic Method
 ```java
 class Util {
-
     public static <T> void printValue(T value) {
         System.out.println(value);
     }

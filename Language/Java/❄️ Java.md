@@ -57,23 +57,13 @@ No need to start from zero, choose a question, don't know, make note here, only 
 3. [Generic Class](Concepts/Generic%20Class.md) 
 4. [Generic Class with Multiple Type Parameters](Concepts/Generic%20Class%20with%20Multiple%20Type%20Parameters.md) 
 5. [Generic Method](Concepts/Generic%20Method.md) 
- 
-- Bounded types
-    
-- Wildcards
-    
-    - `?`
-        
-    - `? extends`
-        
-    - `? super`
-        
-- Type erasure
-    
-- Limitations of Generics\
+6. [Bounded types](Concepts/Bounded%20types.md) 
+7. [Wildcards in Generics](Concepts/Wildcards%20in%20Generics.md) 
+8. [Type Erasure](Concepts/Type%20Erasure.md) 
+9. [Limitations of Generics](Concepts/Limitations%20of%20Generics.md) 
 
 ---
-# 🚀 Java 8 Specific Features (MOST IMPORTANT)
+## Java 8 Specific Features
 
 ## 5️⃣ Lambda Expressions
 

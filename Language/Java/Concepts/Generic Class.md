@@ -1,6 +1,8 @@
 > A **Generic Class** is a class that can work with different data types using a **type parameter**.
 
-- we use <> to specify parameter types in generic class creation. To create objects of a generic class, we use the following syntax:
+- we use <> (Angle Brackets/Diamond Operator (in some contexts)) to specify parameter types in generic class creation. To create objects of a generic class, we use the following syntax:
+- `<` → Left angle bracket  
+- `>` → Right angle bracket
 ```java
 // To create an instance of generic class  
 BaseType <Type> obj = new BaseType <Type>()
@@ -10,9 +12,8 @@ BaseType <Type> obj = new BaseType <Type>()
 In Parameter type, we can not use primitives like "int", "char" or "double". Use wrapper classes like Integer, Character, etc.
 ```
 ### Why Do We Need It?
-- To make code **reusable**
-- To provide **type safety**
-- To avoid writing separate classes for different data types
+- To make code **reusable**, avoid writing separate classes for different data types
+- To provide **type safety** at compile time
 ```java
 class Box<T> {
 
@@ -38,7 +39,6 @@ Box<Integer> intBox = new Box<>();
 intBox.set(100);
 Integer number = intBox.get();
 ```
-
 ### Before Generic Class (Problem)
 Without generics, we would write:
 ```java
