@@ -1,3 +1,4 @@
+
 | Strategy     | Meaning                               | How it works                                                               | Notes                                                                                        |
 | ------------ | ------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | **AUTO**     | Automatic selection                   | JPA picks the best strategy for your database (usually SEQUENCE or TABLE)  | Default option. Most flexible.                                                               |

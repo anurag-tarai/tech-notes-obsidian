@@ -38,10 +38,8 @@ Builder Pattern
 [Boilerplate Code](Concepts/Boilerplate%20Code.md) 
 For `Service` Using Interface + Implementation (Recommended for bigger projects)
 
-
 - Java Record
 - Maven
-- SOLID principle
 - Rest, Restful, api
 - HTTP
 - HTTPS

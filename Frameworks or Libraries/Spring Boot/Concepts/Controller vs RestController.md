@@ -20,7 +20,6 @@ public class UserController {
 ```
 
 ---
-
 ### 2️⃣ `@RestController`
 
 **Definition:**  

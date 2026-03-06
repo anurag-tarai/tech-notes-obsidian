@@ -8,14 +8,13 @@
 ---
 ## What does SOLID stand for?
 
-|Letter|Principle|
-|---|---|
-|**S**|Single Responsibility Principle|
-|**O**|Open/Closed Principle|
-|**L**|Liskov Substitution Principle|
-|**I**|Interface Segregation Principle|
-|**D**|Dependency Inversion Principle|
-
+| Letter | Principle                       |
+| ------ | ------------------------------- |
+| **S**  | Single Responsibility Principle |
+| **O**  | Open/Closed Principle           |
+| **L**  | Liskov Substitution Principle   |
+| **I**  | Interface Segregation Principle |
+| **D**  | Dependency Inversion Principle  |
 
 ## 1️⃣ Single Responsibility Principle (SRP)
 

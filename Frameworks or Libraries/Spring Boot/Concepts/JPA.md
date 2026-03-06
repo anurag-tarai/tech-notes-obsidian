@@ -1,6 +1,6 @@
 > **JPA (Java Persistence API)** is a **Java specification** used to **store, retrieve, and manage data between Java objects and a relational database**.
 
-**JPA lets you work with database data using Java objects instead of writing SQL again and again.**
+**JPA lets you work with database data using Java objects instead of writing SQL again and again.** 
 
 Read - [Specification](Specification.md) 
 ## Why JPA exists (the problem it solves)

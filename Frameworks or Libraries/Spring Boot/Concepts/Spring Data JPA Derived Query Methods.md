@@ -1,7 +1,6 @@
 Spring Data JPA allows us to create database queries **just by writing method names** in the repository interface.  
 No SQL or JPQL is required.
 
-											
 ```java
 boolean existsByEmail(String email);
 boolean existsByUsername(String username);
