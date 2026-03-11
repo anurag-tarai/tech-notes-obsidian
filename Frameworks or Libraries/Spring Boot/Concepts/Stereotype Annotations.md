@@ -1,4 +1,4 @@
-**Stereotype annotations** are **specialized Spring annotations used to mark a class as a specific type of Spring bean**, helping Spring identify the role of the class in the application architecture.
+**Stereotype annotations** are **specialized Spring annotations used to mark a class as a specific type of Spring bean**, helping Spring identify the role of the class in the application architecture. 
 ## Main Stereotype Annotations in Spring
 
 ### 1️⃣ `@Component`

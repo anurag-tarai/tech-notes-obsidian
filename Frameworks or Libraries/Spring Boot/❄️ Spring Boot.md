@@ -24,10 +24,7 @@
 Builder Pattern
 ## Lombok
 1. [@Data](Concepts/@Data.md) 
-
-
 ## Spring Security
-
 
 
 ## Questions

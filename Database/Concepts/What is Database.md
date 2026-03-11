@@ -1,0 +1,1 @@
+Database is an electronic place/system where data is stored in a way that it can be easily accessed, managed, and updated.

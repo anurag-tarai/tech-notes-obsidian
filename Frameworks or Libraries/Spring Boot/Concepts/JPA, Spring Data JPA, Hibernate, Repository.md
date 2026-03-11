@@ -19,7 +19,7 @@
 👉 _What to do, not how_
 
 ---
-## Spring Data JPA
+## Spring Data JPA 
 - **Abstraction on top of JPA**
 - Removes boilerplate even more
 - You don’t write:

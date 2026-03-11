@@ -1,6 +1,5 @@
 - Used in **Hash-based collections**: `HashSet`, `HashMap`, `Hashtable`
 - Determine **uniqueness** of objects
-
 ## equals()
 - Checks **logical equality** of objects
 - Defined in `Object` class → can override

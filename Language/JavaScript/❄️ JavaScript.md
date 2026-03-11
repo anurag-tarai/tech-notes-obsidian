@@ -1,5 +1,5 @@
 👩🏻‍💻 ✅ --> 🎓
-[Mongosh Commands](../../Databases/MongoDB/Concepts/Mongosh%20Commands.md)
+[Mongosh Commands](../../Database/MongoDB/Concepts/Mongosh%20Commands.md)
 ## 1. Core Fundamentals 👩🏻‍💻
 1. [What is JavaScript](Concepts/What%20is%20JavaScript.md)
 2. [Scripting  vs Normal (Programming) language](Concepts/Scripting%20%20vs%20Normal%20(Programming)%20language.md) 

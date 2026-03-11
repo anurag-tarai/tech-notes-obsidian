@@ -6,9 +6,12 @@ No need to start from zero, choose a question, don't know, make note here, only 
 3. [Array Vs ArrayList](Concepts/Array%20Vs%20ArrayList.md)
 ---
 ## Basic
-1. Access Modifier - use telusko notes
-2. [Polymorphism](Concepts/Polymorphism.md) - use telusko notes 
-3. [Abstract class Vs Interface](Concepts/Abstract%20class%20Vs%20Interface.md) 
+1. [High level & Low level PL](Concepts/High%20level%20&%20Low%20level%20PL.md) 
+2. [Java Architecture](Concepts/Java%20Architecture.md) 
+3. [Data Types](Concepts/Data%20Types.md) 
+4. Access Modifier - use telusko notes
+5. [Polymorphism](Concepts/Polymorphism.md) - use telusko notes
+6. [Abstract class Vs Interface](Concepts/Abstract%20class%20Vs%20Interface.md) 
 ---
 ## File Handling - [File Handling - Complete Syllabus](Concepts/File%20Handling%20-%20Complete%20Syllabus.md) 
 1. [Basics of File Handling](Concepts/Basics%20of%20File%20Handling.md) 
@@ -67,6 +70,26 @@ No need to start from zero, choose a question, don't know, make note here, only 
 ---
 # Java 8 Specific Features
 
+1. [Why Java 8](Concepts/Why%20Java%208.md) 
+2. [Major Features Introduced in Java 8](Concepts/Major%20Features%20Introduced%20in%20Java%208.md) 
+## Functional Interfaces
+1. [Functional Interface](Concepts/Functional%20Interface.md) 
+2. [Implementing Functional Interface](Concepts/Implementing%20Functional%20Interface.md) 
+3. [Comparator in Java](Concepts/Comparator%20in%20Java.md) - Read in collection and implementation using lambda
+4. [Important Functional Interfaces](Concepts/Important%20Functional%20Interfaces.md)
+## Stream API
+1. [Stream API in Java SE 8](Concepts/Stream%20API%20in%20Java%20SE%208.md) 
+2. [What is a Stream](Concepts/What%20is%20a%20Stream.md) 
+3. [Why Stream API was Introduced](Concepts/Why%20Stream%20API%20was%20Introduced.md) 
+4. [Stream Pipeline](Concepts/Stream%20Pipeline.md) 
+5. [Types of Stream Operations](Concepts/Types%20of%20Stream%20Operations.md) 
+6. [Map vs Filter](Concepts/Map%20vs%20Filter.md) 
+7. [Collect Operation](Concepts/Collect%20Operation.md)
+8. [Reduce Operation](Concepts/Reduce%20Operation.md)
+9. [Parallel Streams](Concepts/Parallel%20Streams.md) 
+10. [Example Full Pipeline of Stream](Concepts/Example%20Full%20Pipeline%20of%20Stream.md) 
+11. [Stream vs Collection](Concepts/Stream%20vs%20Collection.md) 
+12. [Stream Questions Part 1](Concepts/Stream%20Questions%20Part%201.md) 
 ## 5️⃣ Lambda Expressions
 
 - Syntax
@@ -199,19 +222,3 @@ No need to start from zero, choose a question, don't know, make note here, only 
 
 ---
 
-## 1️⃣1️⃣ Nashorn JavaScript Engine (Basic Awareness)
-
-- Running JavaScript in Java
-    
-
----
-
-## 1️⃣2️⃣ Other Important Topics
-
-- Type inference (`var` not in Java 8, but inference in lambdas)
-    
-- Method references
-    
-- Annotations
-    
-- Serialization basics

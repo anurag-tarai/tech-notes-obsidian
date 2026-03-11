@@ -1,8 +1,11 @@
+## 1. Basics
+1. [What is SQL](Concepts/What%20is%20SQL.md) 
+2. [SQL Command Types](Concepts/SQL%20Command%20Types.md) 
 ## 7. Sorting & Pagination
 - [ORDER BY](Concepts/ORDER%20BY.md)  (ASC / DESC)
 - [LIMIT](Concepts/LIMIT.md) 
 - [OFFSET](Concepts/OFFSET.md) 
-- [Top N queries](Concepts/Top%20N%20queries.md)  
+- [Top N queries](Concepts/Top%20N%20queries.md) 
 ## 9. Joins
 1. [What is JOIN in SQL](Concepts/What%20is%20JOIN%20in%20SQL.md) ?
 2. [INNER JOIN](Concepts/INNER%20JOIN.md) 
@@ -19,7 +22,10 @@
 - Subquery in SELECT
 - Subquery in FROM
 - Nested subqueries
-- EXISTS / NOT EXISTS
-
+	- EXISTS / NOT EXISTS
 
 `Window Function`
+
+---
+[Practice Questions](Concepts/Practice%20Questions.md)
+[DDL Questions](Concepts/DDL%20Questions.md) 

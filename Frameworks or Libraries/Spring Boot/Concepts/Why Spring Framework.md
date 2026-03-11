@@ -11,7 +11,6 @@
     
 
 ---
-
 ### **What Spring Solves**
 
 1. **Lightweight** – Runs anywhere, no heavy server required.
