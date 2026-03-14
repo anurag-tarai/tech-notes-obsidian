@@ -1,8 +1,8 @@
 # DDL Practice Questions (30)
 
 ### Table Creation
-
-1. Create a table **Employee** with columns id, name, salary, department.
+                                                                
+1. Create a table **Employee** with columns id, name, salary, department. 
     
 2. Create a table **Department** with department_id and department_name.
     

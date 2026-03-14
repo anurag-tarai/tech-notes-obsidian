@@ -1,0 +1,12 @@
+- Reverse a String
+- Check Palindrome
+- Find Duplicate Elements in Array
+- Find Second Largest Number
+- Count Character Frequency
+- Find Missing Number
+- Anagram Check
+- Sort HashMap by Value
+- Reverse LinkedList
+- Second Highest Salary SQL
+---
+Design Practice - Data base

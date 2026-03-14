@@ -1,6 +1,7 @@
 ## 1. Basics
 1. [What is SQL](Concepts/What%20is%20SQL.md) 
 2. [SQL Command Types](Concepts/SQL%20Command%20Types.md) 
+3. [Data Types](Concepts/Data%20Types.md) 
 ## 7. Sorting & Pagination
 - [ORDER BY](Concepts/ORDER%20BY.md)  (ASC / DESC)
 - [LIMIT](Concepts/LIMIT.md) 

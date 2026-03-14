@@ -44,7 +44,7 @@ updated_date
 ---
 
 ## Reviews
-
+id (PK)
 user_id  
 app_id  
 rating  
@@ -52,14 +52,11 @@ review_description
 created_date  
 updated_date
 
-PRIMARY KEY (user_id, app_id)
+UNIQUE (user_id, app_id)
 
 This ensures:
 
 One user → One review per app
-
-**Why:**  
-Using a **composite primary key** prevents duplicate reviews from the same user for the same application.
 
 ---
 
